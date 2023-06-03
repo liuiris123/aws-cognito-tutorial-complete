@@ -81,7 +81,7 @@ export default class ProductAdmin extends Component {
   render() {
     return (
       <Fragment>
-        <section className="section">
+        {/* <section className="section">
           <div className="container">
             <h1>Product Admin</h1>
             <p className="subtitle is-5">Add and remove products using the form below:</p>
@@ -135,7 +135,7 @@ export default class ProductAdmin extends Component {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
       </Fragment>
     )
   }

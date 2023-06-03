@@ -27,10 +27,10 @@ export default class Navbar extends Component {
               Home
             </a>
             <a href="/products" className="navbar-item">
-              Products
+              ImageUpload
             </a>
             <a href="/admin" className="navbar-item">
-              Admin
+              Get Tags
             </a>
           </div>
 
