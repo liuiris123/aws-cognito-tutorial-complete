@@ -45,7 +45,8 @@ class Register extends Component {
         username,
         password,
         attributes: {
-          email: email
+          email: email,
+          phone_number:'+8618243010015'
         }
       });
       this.props.history.push("/welcome");
